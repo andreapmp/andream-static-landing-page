@@ -1,4 +1,6 @@
-
+.nav h1, ul, li, a {
+    color:white !important;
+}
 /* 
 
     You can write your own styles here...
